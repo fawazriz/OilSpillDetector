@@ -1,0 +1,10 @@
+C:\Users\testaccount\Documents\Highschool\Grade 12\ICS4U\Unit 2\Assignment2\OilSpillDetector\bin\Debug\OilSpillDetector.exe.config
+C:\Users\testaccount\Documents\Highschool\Grade 12\ICS4U\Unit 2\Assignment2\OilSpillDetector\bin\Debug\OilSpillDetector.exe
+C:\Users\testaccount\Documents\Highschool\Grade 12\ICS4U\Unit 2\Assignment2\OilSpillDetector\bin\Debug\OilSpillDetector.pdb
+C:\Users\testaccount\Documents\Highschool\Grade 12\ICS4U\Unit 2\Assignment2\OilSpillDetector\obj\Debug\OilSpillDetector.csprojAssemblyReference.cache
+C:\Users\testaccount\Documents\Highschool\Grade 12\ICS4U\Unit 2\Assignment2\OilSpillDetector\obj\Debug\OilSpillDetector.frmMain.resources
+C:\Users\testaccount\Documents\Highschool\Grade 12\ICS4U\Unit 2\Assignment2\OilSpillDetector\obj\Debug\OilSpillDetector.Properties.Resources.resources
+C:\Users\testaccount\Documents\Highschool\Grade 12\ICS4U\Unit 2\Assignment2\OilSpillDetector\obj\Debug\OilSpillDetector.csproj.GenerateResource.cache
+C:\Users\testaccount\Documents\Highschool\Grade 12\ICS4U\Unit 2\Assignment2\OilSpillDetector\obj\Debug\OilSpillDetector.csproj.CoreCompileInputs.cache
+C:\Users\testaccount\Documents\Highschool\Grade 12\ICS4U\Unit 2\Assignment2\OilSpillDetector\obj\Debug\OilSpillDetector.exe
+C:\Users\testaccount\Documents\Highschool\Grade 12\ICS4U\Unit 2\Assignment2\OilSpillDetector\obj\Debug\OilSpillDetector.pdb
